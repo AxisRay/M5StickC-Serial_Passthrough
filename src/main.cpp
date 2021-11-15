@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <M5StickCPlus.h>
-#include <arduino-timer.h>
 
 uint32_t rx_len = 0;
 uint32_t tx_len = 0;
